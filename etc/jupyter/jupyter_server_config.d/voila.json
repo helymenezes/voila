@@ -1,7 +1,8 @@
 {
   "ServerApp": {
     "jpserver_extensions": {
-      "voila.server_extension": true
+      "voila.server_extension": true,
+      "voila": true
     }
   }
 }
